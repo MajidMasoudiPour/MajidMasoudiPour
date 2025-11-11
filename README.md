@@ -3,13 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [magol.net](https://magol.net)
 
-- 📝 I regularly write articles on [magol.net/mag](magol.net/mag)
+- 📝 I regularly write articles on [magol.net/mag](https://magol.net/mag)
 
 - 💬 Ask me about **React.js, Next.js, AI and ...**
 
 - 📫 How to reach me **magol.net**
 
-- 📄 Know about my experiences [magol.net/projects](magol.net/projects)
+- 📄 Know about my experiences [magol.net/projects](https://magol.net/projects)
 
 - ⚡ Fun fact **I am from planet EARTH!!**
 
