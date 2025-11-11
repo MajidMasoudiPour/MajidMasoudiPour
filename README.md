@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majid MasoudiPour</h1>
 <h3 align="center">A passionate fullstack developer & A passionate ai developer from planet EARTH!!</h3>
 
-- 👨‍💻 All of my projects are available at [magol.net](magol.net)
+- 👨‍💻 All of my projects are available at [magol.net](https://magol.net)
 
 - 📝 I regularly write articles on [magol.net/mag](magol.net/mag)
 
