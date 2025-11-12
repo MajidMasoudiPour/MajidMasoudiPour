@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majid MasoudiPour</h1>
-<h3 align="center">A passionate fullstack developer & A passionate ai developer from planet EARTH!!</h3>
+<h3 align="center">A passionate fullstack developer & A passionate ai developer from planet EARTH!!<br>Founder & CEO of AvidPinar & [magol.net](https://magol.net)</h3>
 
 - 👨‍💻 All of my projects are available at [magol.net](https://magol.net)
 
